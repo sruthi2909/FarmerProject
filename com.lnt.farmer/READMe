@@ -1,0 +1,7 @@
+Daomain --->  Entity Classes
+Repository ---> Db layer -> (CRUD opt performed by thid layer)
+Service ---> services/b logic here.
+
+
+pro-perties----> configuration related to db
+pom.xml   ----> we mention dependencies
